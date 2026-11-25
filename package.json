@@ -1,0 +1,11 @@
+{
+  "name": "entries-fridge-note",
+  "version": "1.0.0",
+  "description": "One funny passive-aggressive note a smart fridge leaves for its owner — make.fun bounty entry",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
